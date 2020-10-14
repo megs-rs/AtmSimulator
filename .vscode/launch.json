@@ -1,0 +1,329 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "config.Main",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MainCommContext<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "config.MainCommContext",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MainCommContextServer<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "config.MainCommContextServer",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MainConfigAllClient<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "config.MainConfigAllClient",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MainConfigAllServer<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "config.MainConfigAllServer",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MainDefaultBeaners<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "config.MainDefaultBeaners",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MainDefaultComponentCreators<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "config.MainDefaultComponentCreators",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MainDefaultConfigurators<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "config.MainDefaultConfigurators",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MainDefaultConfiguratorsServer<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "config.MainDefaultConfiguratorsServer",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MainDefaultObjectCreators<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "config.MainDefaultObjectCreators",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MainDeviceContext<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "config.MainDeviceContext",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MainSetProperties<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "config.MainSetProperties",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Simulator<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "presentation.display.Simulator",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SplashScreen<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "presentation.splash.SplashScreen",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestAtmServer<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.TestAtmServer",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestAtmSimulator<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.TestAtmSimulator",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestSaveXmlAtmSimulator<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.TestSaveXmlAtmSimulator",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestSaveXmlServer<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.TestSaveXmlServer",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BeanManagerTest<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.other.BeanManagerTest",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestAtmGui<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.other.TestAtmGui",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestCommRPC<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.other.TestCommRPC",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestCommRPCReceiver<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.other.TestCommRPCReceiver",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestCommRPCSender<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.other.TestCommRPCSender",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestCommTCPReceiver<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.other.TestCommTCPReceiver",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestCommTCPSender<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.other.TestCommTCPSender",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestDisplay<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.other.TestDisplay",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestGlobalState<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.other.TestGlobalState",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestIFXMessage<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.other.TestIFXMessage",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestIFXMessage2<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.other.TestIFXMessage2",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestLoadAndExeXML<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.other.TestLoadAndExeXML",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestMaquinaDeEstados<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.other.TestMaquinaDeEstados",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestMaquinaDeEstadosComunicada<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.other.TestMaquinaDeEstadosComunicada",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestSaveXML<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.other.TestSaveXML",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestSaveXML_JXFS<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.other.TestSaveXML_JXFS",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestSaveXML_Prototype<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.other.TestSaveXML_Prototype",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestSimulador<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.other.TestSimulador",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestTCPServer<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.other.TestTCPServer",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestTimeOutXML<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.other.TestTimeOutXML",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestXMLEncoder<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "test.other.TestXMLEncoder",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Editor<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "tools.screeneditor.Editor",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UrlSelectionDialog<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "tools.screeneditor.UrlSelectionDialog",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AdvancedFontChooser<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "tools.screeneditor.graphics.AdvancedFontChooser",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StateEditor<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "tools.stateeditor.StateEditor",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GraphEd<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "tools.stateeditor.graphics.GraphEd",
+            "projectName": "AtmSimulator_bfea806e"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ListSelectionDialog<AtmSimulator_bfea806e>",
+            "request": "launch",
+            "mainClass": "tools.stateeditor.graphics.ListSelectionDialog",
+            "projectName": "AtmSimulator_bfea806e"
+        }
+    ]
+}
